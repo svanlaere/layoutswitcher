@@ -8,7 +8,7 @@ Plugin::setInfos(array(
     'title' => 'Layout switcher',
     'description' => 'Allow visitors to switch between layouts.',
     'version' => '0.1.0',
-    'license' => 'GPLv3',
+    'license' => 'MIT',
     'author'  => 'svanlaere',
     'website' => 'http://svanlaere.nl/',
     'update_url' => 'http://svanlaere.nl/plugin-versions.xml',
